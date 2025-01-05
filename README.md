@@ -18,6 +18,15 @@
 ###
 
 <div align="center" style="margin-top: 20px;">
+  <p>
+    I'm a passionate tech enthusiast who loves exploring the realms of artificial intelligence and data science. 
+    With experience in programming, data analysis, and DevOps tools, I aim to combine creativity and technology to solve real-world problems.
+  </p>
+</div>
+
+###
+
+<div align="center" style="margin-top: 20px;">
   <h3>🛠️ Tech Stack</h3>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
