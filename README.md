@@ -42,15 +42,12 @@
 ###
 
 <div align="center" style="margin-top: 20px;">
-  <h3>📫 Let's Connect!</h3>
+  <h3>Let's Connect!</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
-    <a href="Ezuker#2802" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-    </a>
     <a href="mailto:benoit.carolle.pro@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
     </a>
-    <a href="https://fr.linkedin.com/in/benoit-carolle" target="_blank">
+    <a href="[https://fr.linkedin.com/in/benoit-carolle](https://www.linkedin.com/in/benoit-carolle-989b91268/)" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
     </a>
   </div>
